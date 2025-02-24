@@ -1,3 +1,4 @@
-import numpy
+import numpy, pygame
 
-print(numpy)
+def my_func():
+    pass
